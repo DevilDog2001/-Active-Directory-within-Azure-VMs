@@ -21,7 +21,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Internet Connection
 - Microsoft Azure Account
-- Step 3
+- Virtual Machine
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
